@@ -10,6 +10,6 @@ https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 
 https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
 
-3. Single family loan data 2019
+3. Single family loan data 2019 ----this data may be incorporated for future use
 
 https://www.fhfa.gov/DataTools/Downloads/Pages/Single-Family-Census-Tract-File.aspx
