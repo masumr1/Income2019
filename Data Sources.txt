@@ -1,0 +1,15 @@
+1. Individual Income Tax Statistics - 2019
+
+https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2019-zip-code-data-soi
+
+2. State and Zipcode data
+
+https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt
+
+https://www.huduser.gov/portal/datasets/usps_crosswalk.html
+
+https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
+
+3. Single family loan data 2019
+
+https://www.fhfa.gov/DataTools/Downloads/Pages/Single-Family-Census-Tract-File.aspx
